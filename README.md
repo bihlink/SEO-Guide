@@ -61,6 +61,7 @@ This repository contains all of the subjects you need to know about Seo and tool
     * [Google Trends](https://trends.google.com/trends/)
     * [Moz keyword explorer](https://moz.com/explorer)
     * [Google keyword planner](http://adwords.google.com/keywordplanner)
+    * [Keyword.com](https://keyword.com/)
     * [Seo tools](https://www.verbolia.com/seo-tools/?utm_term=%2Bbest%20%2Bseo%20%2Btools&utm_campaign=Search+-+Generic&utm_source=adwords&utm_medium=ppc&hsa_acc=5582735397&hsa_cam=11693895249&hsa_grp=116383019969&hsa_ad=481998358011&hsa_src=g&hsa_tgt=kwd-21454981279&hsa_kw=%2Bbest%20%2Bseo%20%2Btools&hsa_mt=b&hsa_net=adwords&hsa_ver=3&gclid=Cj0KCQiAmL-ABhDFARIsAKywVafRc0rfQ6myyv5Nxa-qPtsQIDz0Ld1_-2Fsf9uGSAEEJjoazEfuDTUaAmXQEALw_wcB)
     * [Ultimate Seo tools](https://seranking.com/ultimate-seo-tools.html?sou1=Adw&gr1=Search_616700562&tg1=New&kw1=best%20seo%20tool&gclid=Cj0KCQiAmL-ABhDFARIsAKywVaefoZhd_lDeLDGhLvnCtt_svFsKYz6Pjwfrs5Q5yGLEjFfxrohSV74aAqbjEALw_wcB)
     * [Python Seo Data Refrence](https://www.searchenginejournal.com/python-seo-data-reference-guide/287927/#close)
@@ -71,6 +72,7 @@ This repository contains all of the subjects you need to know about Seo and tool
     * [Automate your SEO reporting and dashboards with Supermetrics](https://supermetrics.com/seo?utm_source=google&utm_medium=cpc&utm_campaign=searchremarketing&utm_adgroup=seo&utm_category=adw-retargeting&utm_term=seo&location=&gclid=CjwKCAjwxuuCBhATEiwAIIIz0fugraPMiMTVS5_Nv2NJUm-lkNKx2jslq7g4SMR6TZ0UE0IPrKpG5hoCZnYQAvD_BwE)
     * [Check your website SEO](https://web.dev/measure/?gclid=CjwKCAjwu5CDBhB9EiwA0w6sLUmhN6YJvbxQmpOCJVAs3v20ou5ZwUiZnpkIwCce4ZO6GowMO8P2gxoCzRsQAvD_BwE)
     * [Keyword Research & Analysis Tools](https://www.similarweb.com/corp/marketing/keyword-research/?utm_source=adwords&utm_medium=paid&utm_content=seotool&utm_campaign=gs_seotool_europe_dsk_nt&gclid=CjwKCAjw3pWDBhB3EiwAV1c5rDGvcuvqZNtIljJdxTwP6WMhYLlI3v5qBm1V_gnfjGnQAlrgKhUFjBoCGRAQAvD_BwE)
+    * [Seobility](https://www.seobility.net/en/)
   * #### SEO in Wordpress 
     * [Wordpress Seo Plugin](https://wordpress.org/plugins/wordpress-seo/)
     * [Wordpress RankBear](https://rankbear.com/?gclid=CjwKCAiAr6-ABhAfEiwADO4sfan1aAA7DGPpOHD3VbW9RRW75ACAoFBlQBiwsWCVSbd0MQy6sMrNBhoCW0EQAvD_BwE)
@@ -78,6 +80,7 @@ This repository contains all of the subjects you need to know about Seo and tool
   * #### Other contents
     * [10 things SEO is not](https://infomedia.com/blog/10-things-seo-is-not/)
     * [Are getting SEO basics right ?](https://www.semrush.com/blog/seo-basics)
+    * [Mastering SEO for Developers](https://www.git-tower.com/blog/seo-for-developers/)
     * [Customer Journey and SEO](https://www.searchenginejournal.com/customer-journey-seo/351938/)
     * [The Customer Journey and Search Engine Optimization](https://seoforgrowth.com/customer-journey-seo/)
     * [12 Reasons Why SEO is importent for business](https://www.searchenginejournal.com/why-seo-is-important-for-business/248101/)
